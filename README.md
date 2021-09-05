@@ -37,3 +37,13 @@ An awesome list of date engineering, but without noise
 
 - Soda SQL
 - Great Expectations
+
+### DB documentation
+
+- SchemaSpy
+- https://github.com/k1LoW/tbls
+
+### Schema migration tools
+
+- Flyway
+- Liquibase
