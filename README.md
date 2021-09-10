@@ -21,6 +21,7 @@ An awesome list of date engineering, but without noise
 ### SQL IDE as a service
 
 - PopSQL
+- aginity
 - Querybook
 
 ### Data Observability
